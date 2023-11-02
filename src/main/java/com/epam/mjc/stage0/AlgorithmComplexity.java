@@ -42,5 +42,6 @@ public class AlgorithmComplexity {
      */
     public Complexity twoCycleSorting() {
         return Complexity.O_N;
+
     }
 }
